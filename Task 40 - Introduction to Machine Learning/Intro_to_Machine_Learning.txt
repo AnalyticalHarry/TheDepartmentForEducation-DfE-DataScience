@@ -1,0 +1,83 @@
+1. SELF DRIVING CARS
+
+Inputs for a self-driving car:
+
+Sensors: This includes cameras, lidar, radar, ultrasonic sensors, and other sensors that gather data about the environment surrounding the car. The sensors provide information about the car's surroundings, including the location of other vehicles, pedestrians, road signs, road markings, and obstacles.
+
+Maps: The car uses high-precision maps to understand the environment and navigate the roads. The maps include information about the location of roads, intersections, and other relevant features.
+Vehicle control systems: This includes the accelerator, brake, and steering systems, which allow the car to control its motion.
+
+Outputs for a self-driving car:
+
+Steering: The car uses the outputs from its sensors and algorithms to determine the optimal steering angle for driving in a safe and efficient manner.
+
+Acceleration: The car uses the outputs from its algorithms to determine the optimal speed for driving in a safe and efficient manner.
+
+Brake: The car uses the outputs from its algorithms to determine the appropriate amount of braking required to avoid collisions or maintain a safe speed.
+
+The experience (features and targets):
+
+Features: The system collects data from a variety of sensors, such as cameras, LIDAR, and radar, to perceive the environment around the vehicle. The system also uses algorithms to process the data and make decisions about the vehicle's movement. These features allow the self-driving car to understand its surroundings and make safe and efficient driving decisions.
+
+Targets: The target of a self-driving car is to safely and efficiently transport passengers or goods from one location to another, while following traffic laws and avoiding obstacles. The system must make decisions about the vehicle's movement based on the information it receives from its sensors and its algorithms, and it must continually adjust its actions to adapt to changes in the environment.
+
+
+
+2. NETFLIX
+
+Inputs for the Netflix:
+
+User viewing history: Netflix tracks what TV shows and movies a user has watched and for how long. This information provides insight into the user's preferences and interests.
+Search history: Netflix also tracks what TV shows and movies a user has searched for, which can give an indication of their interests and what they may be in the mood to watch.
+Ratings: Netflix allows users to rate TV shows and movies they have watched, which provides more information about their preferences and interests.
+
+Outputs for the Netflix:
+
+Movie/TV show recommendations: Based on the information gathered from a user's viewing history, search history, and ratings, the recommendation system generates a personalised list of TV shows and movies that the user may be interested in watching.
+
+The experience (features and targets):
+
+Features: The system considers several key features of a user's viewing history, search history, and ratings, including the types of TV shows and movies watched, the length of time spent watching them, and the user's ratings of each.
+
+Targets: The target of the Netflix recommendation system is to provide personalised and relevant recommendations to users based on their viewing history, search history, and ratings. The system must make recommendations based on a comparison of the features of a user's information with stored reference data about other users' preferences and interests.
+
+The goal of the Netflix recommendation system is to improve the user experience by providing personalised recommendations that are more likely to match their interests and preferences. The system is constantly being updated and improved based on user feedback, which helps to ensure the accuracy and relevance of the recommendations over time
+
+
+
+3. SIGNATURE RECOGNITION
+
+Inputs for a signature recognition:
+
+Digital signature images: This is the digital representation of a signature that is captured using a device such as a digital pen, tablet, or smartphone.
+Outputs for a signature recognition
+
+Authentication results: Based on the analysis of the digital signature image,    the system determines whether the signature is accepted or rejected. If the signature is accepted, it is considered to be a valid representation of the signer's identity. 
+
+The experience (features and targets):
+
+Features: The system analyses several key features of the digital signature image, including the shape, size, and pressure of the signature. These features are used to identify unique characteristics of the signature and determine its authenticity.
+
+Targets: The target of a signature recognition system is to accurately verify the identity of the signer by matching the digital signature image to a stored reference signature. The system must make a determination of whether the signature is genuine or not, based on a comparison of the features of the digital signature image and the reference signature.
+
+the goal of a signature recognition system is to provide a secure and efficient method of authentication based on the analysis of digital signature images. The inputs and outputs, as well as the features and targets, play a critical role in the accuracy and efficiency of the system.
+
+4. MEDICAL DIAGNOSIS
+
+Inputs for a medical diagnosis:
+
+Patient symptoms: This includes information about the symptoms a patient is experiencing, such as pain, discomfort, or changes in bodily function.
+
+Medical history: This includes information about the patient's prior medical conditions, treatments, and medications.
+
+Test results: This includes information from laboratory tests, imaging tests, and other diagnostic procedures that have been performed on the patient.
+
+Outputs for a medical diagnosis:
+
+Medical diagnosis: Based on the analysis of the patient's symptoms, medical history, and test results, the system generates a diagnosis of the patient's medical condition.
+
+The experience (features and targets)
+
+Features: The system analyses several key features of the patient's information, including the symptoms, medical history, and test results. These features are used to identify patterns and relationships that may indicate a particular medical condition.
+
+Targets: The target of a medical diagnosis system is to accurately diagnose the medical condition of the patient and provide effective treatment options. The system must make a determination of the patient's condition based on a comparison of the features of the patient's information with stored reference data about known medical conditions.
