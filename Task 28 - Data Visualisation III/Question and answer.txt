@@ -1,0 +1,24 @@
+Compulsort Task 1
+
+https://public.tableau.com/app/profile/hemant.thapa/viz/comapnies_study/Sheet1
+
+email: heamantthapa1998@gmail.com
+
+
+Compulsort Task 2
+
+Q1. Which industries saw the most growth?
+A1. Consumer product and services is the highest growing industries.
+
+Q2. Do Companies that have been on this list longer have a higher chance of appearing again in list?
+A2. Yes, IT Service has longest years on list and Highest rank on list.
+
+Q3. Does the number of workers in the company affect the growth of the company?
+A3. Consumer product and services has lowest worker but highest growing comapnies, 
+    and Human Resources has highest amount of worker but low amount of growth.
+
+Q4. Which state can you find most of the IT companies in?
+A4. California is the state that has most of the IT comapnies
+
+Q5. Which cities have seen the most growth?
+A5. El Segundo with 220,197, Newyork with 102058, and Arlington with 68,007.

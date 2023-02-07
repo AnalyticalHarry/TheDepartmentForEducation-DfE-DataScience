@@ -1,0 +1,99 @@
+Question 1:  
+
+An algorithm that asks a user to enter a positive number repeatedly until the user enters a zero value, 
+then determines and outputs the largest of the numbers that were input.
+
+Solution 1: 
+
+
+request positive number as input from the user
+
+store input value into list called "total_number"
+
+sort the number into ascending order for identifying largest number
+
+if the user input is equal to "0"
+    break the loop
+    print out the largest number from "total_number"
+
+if the user input is not equal to "0"
+    store those positive number inside the list called "total_number"
+    request user to input another number repeatedly until the user enter number is equal to "0"
+    
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Question 2: 
+
+An algorithm that requests a user to input their name and then stores their name in a variable called first_name. 
+Subsequently, the algorithm should print out first_name along with the phrase “Hello,World”.
+
+Solution 2:
+
+
+ask user to enter their name
+
+store user input into variable "first_name"
+
+print first_name enter by user along with the phrase "Hello, World"
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Question 3: 
+
+An algorithm that reads an arbitrary number of integers and then returns their arithmetic average.
+
+
+Solution 3:
+
+
+ask user to enter arbitrary numbers, for example <- 1,2,3,4,5,6,7,8,9 
+
+store user input into list "total_numbers"
+
+create a variable "sum_of_total_numbers" for storing total sum of arbitrary numbers 
+
+use sum() for addition of all the number or numerical value stored inside the list "total_numbers"
+
+create a variable "length_of_numbers" and use len() for caulationg length of "total_number"
+
+create variable "arithmetic_average" for storing arithmetic average value by division of "sum_of_total_numbers" by "length_of_numbers"
+
+print "arithmetic_average" variable for  arithmetic average ouput
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Question 4: 
+
+An algorithm that reads a grocery list and prints out the products (in alphabetical order) that are still left to buy
+
+
+Solution 4:
+
+"grocery_list" are the list of the product left to buy
+
+sort "grocery_list" in ascending order from first letter of the product
+
+print out the all the item from the list in ascending order
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question 5:
+An algorithm for flow chart.
+
+
+Solution 5:
+
+ask user to enter input for X and Y
+
+create a variable "S" for storing sum of X and Y
+
+create a vraible "A" for storing division of "S" by 2
+
+Create a variable "P" for storing Muliplication of X and Y
+
+Print value of S, value of A, and value of P
+
+
